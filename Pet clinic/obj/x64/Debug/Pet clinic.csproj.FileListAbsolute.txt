@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\Pet clinic\Pet clinic\bin\x64\Debug\Pet clinic.exe.config
+C:\Users\MSI\Desktop\Pet clinic\Pet clinic\bin\x64\Debug\Pet clinic.exe
+C:\Users\MSI\Desktop\Pet clinic\Pet clinic\bin\x64\Debug\Pet clinic.pdb
+C:\Users\MSI\Desktop\Pet clinic\Pet clinic\obj\x64\Debug\Pet clinic.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Pet clinic\Pet clinic\obj\x64\Debug\Pet_clinic.Form1.resources
+C:\Users\MSI\Desktop\Pet clinic\Pet clinic\obj\x64\Debug\Pet_clinic.Properties.Resources.resources
+C:\Users\MSI\Desktop\Pet clinic\Pet clinic\obj\x64\Debug\Pet clinic.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\Pet clinic\Pet clinic\obj\x64\Debug\Pet clinic.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Pet clinic\Pet clinic\obj\x64\Debug\Pet clinic.exe
+C:\Users\MSI\Desktop\Pet clinic\Pet clinic\obj\x64\Debug\Pet clinic.pdb
+C:\Users\MSI\Desktop\Pet clinic\Pet clinic\obj\x64\Debug\Pet_clinic.Form2.resources
+C:\Users\MSI\Desktop\Pet clinic\Pet clinic\obj\x64\Debug\Pet_clinic.Form3.resources
+C:\Users\MSI\Desktop\Pet clinic\Pet clinic\obj\x64\Debug\Pet_clinic.Form4.resources
+C:\Users\MSI\Desktop\Pet clinic\Pet clinic\bin\x64\Debug\Pet clinic1.accdb
